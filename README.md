@@ -1,10 +1,11 @@
 # clojuresite
 
-A Clojure library designed to ... well, that part is up to you.
+A development repo for my personal website using the Clojure Ring Web Stack.
+Here goes nothing!
 
 ## Usage
 
-FIXME
+None yet...
 
 ## License
 
