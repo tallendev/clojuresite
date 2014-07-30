@@ -9,7 +9,7 @@ None yet...
 
 ## License
 
-Copyright © 2014 
+Copyright © 2014 Tyler Allen
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
