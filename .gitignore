@@ -4,6 +4,8 @@
 /targets
 classes
 targets
+./classes/
+./targets/
 pom.xml
 *.jar
 .lein-deps-sum
@@ -17,7 +19,7 @@ pom.xml
 *.com
 *.dll
 *.exe
-.class
+*.class
 *.o
 *.so
 
