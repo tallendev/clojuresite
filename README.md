@@ -1,6 +1,6 @@
 # clojuresite
 
-FIXME
+A website I am building for myself using the Clojure web stack.
 
 ## Prerequisites
 
@@ -16,4 +16,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Tyler Allen
