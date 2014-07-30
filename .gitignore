@@ -1,17 +1,21 @@
 /lib
 /checkouts
+/classes
+/targets
 pom.xml
 *.jar
 .lein-deps-sum
 .lein-failures
 .lein-plugins
 .lein-env
+.class
 
 # Compiled source #
 ###################
 *.com
 *.dll
 *.exe
+.class
 *.o
 *.so
 
