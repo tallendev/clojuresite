@@ -4,7 +4,6 @@
 /checkouts
 pom.xml
 *.jar
-*.class
 .lein-deps-sum
 .lein-failures
 .lein-plugins
@@ -13,7 +12,6 @@ pom.xml
 # Compiled source #
 ###################
 *.com
-*.class
 *.dll
 *.exe
 *.o
