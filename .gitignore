@@ -2,10 +2,6 @@
 /checkouts
 /classes
 /targets
-classes
-targets
-./classes/
-./targets/
 pom.xml
 *.jar
 .lein-deps-sum
